@@ -1,0 +1,14 @@
+{
+    "name": "lenovo/uts_pbwl_aizatwisaksono",
+    "description": "UTS PBWL Aizat",
+    "type": "project",
+    "require": {
+        "php": "^8.1"
+    },
+    "authors": [
+        {
+            "name": "Aizat Wisaksono",
+            "email": "aizatwisaksono8@gmail.com"
+        }
+    ]
+}
